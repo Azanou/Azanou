@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity,Web and Mobile Development
 - 🌱 I’m currently learning Laravel, Kotlin as Networks basics
 - 💞️ I’m looking to collaborate on any project where i my skills can be useful
-- 📫 How to reach me: mannkefirst@gmail.com
+- 📫 How to reach me: azanoupresciencedutemps@gmail.com
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: I like..no, I LOVE mastering new skills :)
 <!---
